@@ -1,0 +1,33 @@
+﻿{
+"items":
+	[
+		{
+			"id":0,
+			"name":"Heavy Gun",
+			"description":"Assault Gun 9mm",
+			"stackable":false,
+			"pathImage":"Sprites/Items/Gun",
+			"damage":2,
+			"type":1
+		},
+		{
+			"id":1,
+			"name":"Health Potion",
+			"description":"Heals low amount of damage",
+			"stackable":true,
+			"pathImage":"Sprites/Items/Health_Potion",
+			"damage":5,
+			"type":2
+		},
+		{
+			"id":20,
+			"name":"Revolver",
+			"description":"Revolver 12mm",
+			"stackable":false,
+			"pathImage":"Sprites/Items/Shield",
+			"damage":10,
+			"type":1
+		}
+	]
+
+}
